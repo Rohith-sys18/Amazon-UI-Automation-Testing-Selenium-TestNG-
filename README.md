@@ -90,4 +90,50 @@ Amazon-Automation/
 ├── pom.xml
 ├── testng.xml
 ├── README.md
+---
 
+## 🧠 What You'll Learn
+
+- Selenium WebDriver basics
+- Handling dynamic web elements
+- TestNG test execution
+- Exception handling in automation
+- Real-world automation challenges
+
+---
+
+## ✅ Interview Points
+
+- Handles dynamic UI scenarios
+- Uses exception handling for stability
+- Demonstrates real-world limitations of automation
+- Successfully executes tests with Maven + TestNG
+- Clean and understandable code structure
+
+---
+
+## 🔮 Future Improvements
+
+- Improve element locators
+- Implement Explicit Waits fully
+- Add "Add to Cart" functionality
+- Use Page Object Model (POM)
+- Add reporting (Extent Reports)
+
+---
+
+## 👨‍💻 Author
+
+Made by **Devisetty Rohith**  
+B.Tech CSE (Data Science) Student  
+Learning Automation Testing & Full Stack Development
+
+---
+
+## 📬 Contact
+
+📧 Email: devisettyrohith@gmail.com  
+🔗 GitHub Profile: https://github.com/Rohith-sys18  
+📂 Project Repository: https://github.com/Rohith-sys18/Amazon-UI-Automation-Testing-Selenium-TestNG-
+
+Feel free to connect or reach out!
